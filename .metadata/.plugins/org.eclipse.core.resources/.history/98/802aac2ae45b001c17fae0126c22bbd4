@@ -1,0 +1,15 @@
+
+public class MyOop {
+
+	public static void main(String[] args) {
+		printA();
+
+	}
+
+	private static void printA() {
+		System.out.println("----");
+		System.out.println("A");
+		System.out.println("A");
+	}
+
+}
